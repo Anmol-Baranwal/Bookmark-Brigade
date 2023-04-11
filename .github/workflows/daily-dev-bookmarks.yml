@@ -1,0 +1,20 @@
+name: Daily Bookmarks Routine
+on:
+  # Schedule updates (At minute 0 past every 12th hour)
+  schedule: [{ cron: "0 */12 * * *" }]
+  # Lines below let you run workflow manually with each commit
+  workflow_dispatch:
+  # push: { branches: ["master", "main", "metrics"] }
+jobs:
+  # refer this: https://github.com/gautamkrishnar/blog-post-workflow
+  daily-dev-bookmarks:
+    name: Update README with latest bookmarks from daily.dev # https://app.daily.dev/Anmol-Baranwal
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "daily.dev BOOKMARKS"   # you can change this, if you want to write something else in readme that will be replaced
+          commit_message: "docs: add latest bookmarks"
+          feed_list: "<YOUR BOOKMARKS RSS FEED LINK HERE>"
+          committer_username: "https://api.daily.dev/rss/b/844d728f-ff3b-49e2-b99a-49c96ea256ce"
