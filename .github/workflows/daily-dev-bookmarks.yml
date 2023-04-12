@@ -18,3 +18,4 @@ jobs:
           commit_message: "docs: add latest bookmarks"
           feed_list: "https://api.daily.dev/rss/b/844d728f-ff3b-49e2-b99a-49c96ea256ce"
           committer_username: "bookmark-buddy"
+          max_post_count: 1000
