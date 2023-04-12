@@ -3,5 +3,5 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 
 ## Article Archive
 
-<!--  DAILY-DEV-BOOKMARKS:START -->
-<!--  DAILY-DEV-BOOKMARKS:END -->
+<!-- DAILY-DEV-BOOKMARKS:START -->
+<!-- DAILY-DEV-BOOKMARKS:END -->
