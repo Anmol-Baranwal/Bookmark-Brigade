@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Best Way to Learn Linux 🎮](https://app.daily.dev/posts/xJlfLq93K?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Building AI-Powered Apps Is Way Easier Than You Think](https://app.daily.dev/posts/j5Np5SGCz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [How to Build a Blog with the Ghost API and Next.js](https://app.daily.dev/posts/z0FSU2QAu?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [React, visualized – react.gg](https://app.daily.dev/posts/BisSpev15?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [SOLID Principles in JavaScript](https://app.daily.dev/posts/knkof7hXM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [React UI Kits](https://app.daily.dev/posts/64bffed928742525bbab0da6b3db80ca?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [What is AI Hallucination? What Goes Wrong with AI Chatbots? How to Spot a Hallucinating Artificial Intelligence?](https://app.daily.dev/posts/8VNaJoabB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [10 Must-Have AI Customer Segmentation Tools for Effective Marketing](https://app.daily.dev/posts/rfS7KP5SH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [EnhanceAI - Add AI Autocomplete to Your Website in 2 minutes](https://app.daily.dev/posts/jgAulvr72?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Add Google AdSense to Nextjs 13 – Quick &amp; Easy](https://app.daily.dev/posts/mcOxF8Js6?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [A Realistic Large-Scale 3D Scene Made With Maya, Houdini &amp; UE5](https://app.daily.dev/posts/LV2EG5FVO?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Automate the Boring Stuff with ChatGPT and Python](https://app.daily.dev/posts/7OVl4yY1T?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
