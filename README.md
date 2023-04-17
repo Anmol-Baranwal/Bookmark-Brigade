@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [How to CI and CD a Node.JS Application Using GitHub Actions](https://app.daily.dev/posts/9e64e335bbc8998e89c3215057b8e365?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Laws of UX](https://app.daily.dev/posts/8TlMUR1uv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Best Way to Learn Linux 🎮](https://app.daily.dev/posts/xJlfLq93K?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Building AI-Powered Apps Is Way Easier Than You Think](https://app.daily.dev/posts/j5Np5SGCz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to Build a Blog with the Ghost API and Next.js](https://app.daily.dev/posts/z0FSU2QAu?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Best Free Prompt Engineering Resources &lpar;2023&rpar;](https://app.daily.dev/posts/8NgZylkgx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Infinite scroll with Next.js, Framer Motion, and Supabase](https://app.daily.dev/posts/TO9Cep64r?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [What is AI Hallucination? What Goes Wrong with AI Chatbots? How to Spot a Hallucinating Artificial Intelligence?](https://app.daily.dev/posts/8VNaJoabB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [10 Must-Have AI Customer Segmentation Tools for Effective Marketing](https://app.daily.dev/posts/rfS7KP5SH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [EnhanceAI - Add AI Autocomplete to Your Website in 2 minutes](https://app.daily.dev/posts/jgAulvr72?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
