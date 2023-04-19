@@ -4,6 +4,10 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [How Slack sends Millions of Messages in Real Time](https://app.daily.dev/posts/vaw3gZhu2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [How Go fixed everything that was wrong with programming](https://app.daily.dev/posts/XlUAyFeGN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [TailAdmin Dashboard - Open-source Tailwind CSS admin dashboard template](https://app.daily.dev/posts/Wqw3QuhAm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Introducing the TERN stack and how to migrate from MERN to TERN](https://app.daily.dev/posts/iFBEEqY4K?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to CI and CD a Node.JS Application Using GitHub Actions](https://app.daily.dev/posts/9e64e335bbc8998e89c3215057b8e365?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Laws of UX](https://app.daily.dev/posts/8TlMUR1uv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Best Way to Learn Linux 🎮](https://app.daily.dev/posts/xJlfLq93K?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -20,8 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Building Fast NodeJS apps with Amplication](https://app.daily.dev/posts/eAzrz8Tuh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Password, Session, Cookie, Token, JWT, SSO, OAuth - Authentication Explained - Part 1](https://app.daily.dev/posts/713XF4kHD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [850+ Online Courses with Real College Credit that You Can Access for Free](https://app.daily.dev/posts/Yc2VowP6i?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [🚀 Introducing Rix, the AI chatbot for developers](https://app.daily.dev/posts/19x8j76mM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Best Free Prompt Engineering Resources &lpar;2023&rpar;](https://app.daily.dev/posts/8NgZylkgx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Infinite scroll with Next.js, Framer Motion, and Supabase](https://app.daily.dev/posts/TO9Cep64r?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [What is AI Hallucination? What Goes Wrong with AI Chatbots? How to Spot a Hallucinating Artificial Intelligence?](https://app.daily.dev/posts/8VNaJoabB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
