@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [The Complete Modern React Developer 2022](https://app.daily.dev/posts/SyDkkA2ae?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How Slack sends Millions of Messages in Real Time](https://app.daily.dev/posts/vaw3gZhu2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How Go fixed everything that was wrong with programming](https://app.daily.dev/posts/XlUAyFeGN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [TailAdmin Dashboard - Open-source Tailwind CSS admin dashboard template](https://app.daily.dev/posts/Wqw3QuhAm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Do’s and Don’ts for Using Animation in UI](https://app.daily.dev/posts/iymIG2iLh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Building Fast NodeJS apps with Amplication](https://app.daily.dev/posts/eAzrz8Tuh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Password, Session, Cookie, Token, JWT, SSO, OAuth - Authentication Explained - Part 1](https://app.daily.dev/posts/713XF4kHD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [850+ Online Courses with Real College Credit that You Can Access for Free](https://app.daily.dev/posts/Yc2VowP6i?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
