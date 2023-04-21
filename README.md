@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Top 10 Mistakes to Avoid When Using React](https://app.daily.dev/posts/VO6APDGg7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Best AI Website Builder Options in 2023](https://app.daily.dev/posts/nWvtPVm3U?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [AI Tools to help you with daily work](https://app.daily.dev/posts/9gMw4FYhZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Complete Modern React Developer 2022](https://app.daily.dev/posts/SyDkkA2ae?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How Slack sends Millions of Messages in Real Time](https://app.daily.dev/posts/vaw3gZhu2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How Go fixed everything that was wrong with programming](https://app.daily.dev/posts/XlUAyFeGN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [40+ Cool AI Tools You Should Check Out &lpar;April 2023&rpar;](https://app.daily.dev/posts/mcCRnGOyp?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Typescript utility types that you must know](https://app.daily.dev/posts/FaHbH1Oaz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Visual Design Principles in UX](https://app.daily.dev/posts/O4y2gCoxD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Do’s and Don’ts for Using Animation in UI](https://app.daily.dev/posts/iymIG2iLh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Building Fast NodeJS apps with Amplication](https://app.daily.dev/posts/eAzrz8Tuh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Password, Session, Cookie, Token, JWT, SSO, OAuth - Authentication Explained - Part 1](https://app.daily.dev/posts/713XF4kHD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
