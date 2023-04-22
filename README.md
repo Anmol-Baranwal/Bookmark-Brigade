@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [SQL Versus NoSQL Databases: Which to Use, When, and Why](https://app.daily.dev/posts/im6Siz5eT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Top 10 Mistakes to Avoid When Using React](https://app.daily.dev/posts/VO6APDGg7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Best AI Website Builder Options in 2023](https://app.daily.dev/posts/nWvtPVm3U?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [AI Tools to help you with daily work](https://app.daily.dev/posts/9gMw4FYhZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [REST API Design Best Practices for Parameters and Query String Usage](https://app.daily.dev/posts/332708909d7aff932b6337d35c61333c?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [40+ Cool AI Tools You Should Check Out &lpar;April 2023&rpar;](https://app.daily.dev/posts/mcCRnGOyp?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Typescript utility types that you must know](https://app.daily.dev/posts/FaHbH1Oaz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Visual Design Principles in UX](https://app.daily.dev/posts/O4y2gCoxD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
