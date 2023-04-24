@@ -4,6 +4,16 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [console.log alternatives you didn&#39;t know](https://app.daily.dev/posts/mxck_ZRxe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Why using just console.log in 2023 is a big no-no 🚀](https://app.daily.dev/posts/kRn88O4Cv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [22 Useful CSS Tips and Tricks Every Developer Should Know](https://app.daily.dev/posts/nFx08h5cp?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [How to build a real-time Auction System with Socket.io and React.js](https://app.daily.dev/posts/1UFRBLP_q?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Understanding Git through images](https://app.daily.dev/posts/wqck-hRFh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [7 Tips for Clean React TypeScript Code you Must Know](https://app.daily.dev/posts/UhLxVOj2i?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Advice for Junior Developers](https://app.daily.dev/posts/_OH8Afgq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [CLI tools you won&#39;t be able to live without 🔧](https://app.daily.dev/posts/ezL46HW92?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [A Guide to Web Animation with GSAP &lpar;1 line of JavaScript code&rpar; - Part 1](https://app.daily.dev/posts/aLK3lDqBD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [My Favorite Free Courses to Learn Docker and Containers in 2023](https://app.daily.dev/posts/h733lKgeC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Some Useful GitHub Repositories To Enhance Your Web3 Skills](https://app.daily.dev/posts/4fHYq7oFR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Going &quot;Meta GSAP&quot;: The Quest for &quot;Perfect&quot; Infinite Scrolling](https://app.daily.dev/posts/EElK30ISM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Make a Dream Todo app with Novu, React and Express! ✅](https://app.daily.dev/posts/kDLKosWRr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -14,14 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [AI Tools to help you with daily work](https://app.daily.dev/posts/9gMw4FYhZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Complete Modern React Developer 2022](https://app.daily.dev/posts/SyDkkA2ae?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How Slack sends Millions of Messages in Real Time](https://app.daily.dev/posts/vaw3gZhu2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How Go fixed everything that was wrong with programming](https://app.daily.dev/posts/XlUAyFeGN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [TailAdmin Dashboard - Open-source Tailwind CSS admin dashboard template](https://app.daily.dev/posts/Wqw3QuhAm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Introducing the TERN stack and how to migrate from MERN to TERN](https://app.daily.dev/posts/iFBEEqY4K?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How to CI and CD a Node.JS Application Using GitHub Actions](https://app.daily.dev/posts/9e64e335bbc8998e89c3215057b8e365?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Laws of UX](https://app.daily.dev/posts/8TlMUR1uv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Best Way to Learn Linux 🎮](https://app.daily.dev/posts/xJlfLq93K?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Building AI-Powered Apps Is Way Easier Than You Think](https://app.daily.dev/posts/j5Np5SGCz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How to Build a Blog with the Ghost API and Next.js](https://app.daily.dev/posts/z0FSU2QAu?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [React, visualized – react.gg](https://app.daily.dev/posts/BisSpev15?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [SOLID Principles in JavaScript](https://app.daily.dev/posts/knkof7hXM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
