@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [DevGPT - The Essential AI assistant for Developers](https://app.daily.dev/posts/G7YoaeDDW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [console.log alternatives you didn&#39;t know](https://app.daily.dev/posts/mxck_ZRxe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Why using just console.log in 2023 is a big no-no 🚀](https://app.daily.dev/posts/kRn88O4Cv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [22 Useful CSS Tips and Tricks Every Developer Should Know](https://app.daily.dev/posts/nFx08h5cp?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Best AI Website Builder Options in 2023](https://app.daily.dev/posts/nWvtPVm3U?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [AI Tools to help you with daily work](https://app.daily.dev/posts/9gMw4FYhZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Complete Modern React Developer 2022](https://app.daily.dev/posts/SyDkkA2ae?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How Slack sends Millions of Messages in Real Time](https://app.daily.dev/posts/vaw3gZhu2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
