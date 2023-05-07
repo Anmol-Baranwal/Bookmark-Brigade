@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [TailwindCSS vs. UnoCSS](https://app.daily.dev/posts/A0VG4LfAl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Technical Writing 101: How to get Jobs, Gigs &amp; Opportunities](https://app.daily.dev/posts/f0fIonyeB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Dark Mode in 3 Lines of CSS and Other Adventures](https://app.daily.dev/posts/NHTOUHCVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [8 best opensource projects you should try out](https://app.daily.dev/posts/jwsNbjUL7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Going &quot;Meta GSAP&quot;: The Quest for &quot;Perfect&quot; Infinite Scrolling](https://app.daily.dev/posts/EElK30ISM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Make a Dream Todo app with Novu, React and Express! ✅](https://app.daily.dev/posts/kDLKosWRr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Kubernetes quick tutorial](https://app.daily.dev/posts/sTPmeVBog?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [SQL Versus NoSQL Databases: Which to Use, When, and Why](https://app.daily.dev/posts/im6Siz5eT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
