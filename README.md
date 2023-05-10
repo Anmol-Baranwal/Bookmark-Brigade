@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://app.daily.dev/posts/x744yKoqF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [VSCode Profiles: Optimize Your Coding Environment](https://app.daily.dev/posts/s0TEwvXQQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [TailwindCSS vs. UnoCSS](https://app.daily.dev/posts/A0VG4LfAl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Technical Writing 101: How to get Jobs, Gigs &amp; Opportunities](https://app.daily.dev/posts/f0fIonyeB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [My Favorite Free Courses to Learn Docker and Containers in 2023](https://app.daily.dev/posts/h733lKgeC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Some Useful GitHub Repositories To Enhance Your Web3 Skills](https://app.daily.dev/posts/4fHYq7oFR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Going &quot;Meta GSAP&quot;: The Quest for &quot;Perfect&quot; Infinite Scrolling](https://app.daily.dev/posts/EElK30ISM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Make a Dream Todo app with Novu, React and Express! ✅](https://app.daily.dev/posts/kDLKosWRr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
