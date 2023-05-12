@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Database 101: How social media “likes” are stored in a database](https://app.daily.dev/posts/8o2UdyAZQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://app.daily.dev/posts/x744yKoqF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [VSCode Profiles: Optimize Your Coding Environment](https://app.daily.dev/posts/s0TEwvXQQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [TailwindCSS vs. UnoCSS](https://app.daily.dev/posts/A0VG4LfAl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [A Guide to Web Animation with GSAP &lpar;1 line of JavaScript code&rpar; - Part 1](https://app.daily.dev/posts/aLK3lDqBD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [My Favorite Free Courses to Learn Docker and Containers in 2023](https://app.daily.dev/posts/h733lKgeC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Some Useful GitHub Repositories To Enhance Your Web3 Skills](https://app.daily.dev/posts/4fHYq7oFR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Going &quot;Meta GSAP&quot;: The Quest for &quot;Perfect&quot; Infinite Scrolling](https://app.daily.dev/posts/EElK30ISM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
