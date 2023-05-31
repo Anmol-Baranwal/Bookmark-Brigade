@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Building a bidding system with NextJS 🚀](https://app.daily.dev/posts/akfrdFeAn?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to Give Good Feedback for Effective Code Reviews](https://app.daily.dev/posts/19OLTOfcm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Database 101: How social media “likes” are stored in a database](https://app.daily.dev/posts/8o2UdyAZQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://app.daily.dev/posts/x744yKoqF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Advice for Junior Developers](https://app.daily.dev/posts/_OH8Afgq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [CLI tools you won&#39;t be able to live without 🔧](https://app.daily.dev/posts/ezL46HW92?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [A Guide to Web Animation with GSAP &lpar;1 line of JavaScript code&rpar; - Part 1](https://app.daily.dev/posts/aLK3lDqBD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [My Favorite Free Courses to Learn Docker and Containers in 2023](https://app.daily.dev/posts/h733lKgeC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
