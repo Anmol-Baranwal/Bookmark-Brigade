@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [🚀 21 Tools to take your dev skills to the moon 🌝](https://app.daily.dev/posts/D847KH3FW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [JavaScript Visualized](https://app.daily.dev/posts/Jf60GLU2W?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Produce, Don&#39;t Consume](https://app.daily.dev/posts/cKqHUGpnz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Build a Full-Stack app using these React libraries and cloud backend.](https://app.daily.dev/posts/nHHzwDUmx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [console.log alternatives you didn&#39;t know](https://app.daily.dev/posts/mxck_ZRxe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Why using just console.log in 2023 is a big no-no 🚀](https://app.daily.dev/posts/kRn88O4Cv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [22 Useful CSS Tips and Tricks Every Developer Should Know](https://app.daily.dev/posts/nFx08h5cp?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How to build a real-time Auction System with Socket.io and React.js](https://app.daily.dev/posts/1UFRBLP_q?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
