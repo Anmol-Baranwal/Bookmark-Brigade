@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [🌝 15 JavaScript frameworks for your next project ⚔](https://app.daily.dev/posts/wd5mfJYVC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [30+ AI projects you can build today](https://app.daily.dev/posts/L5RVi7vTH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [🚀 21 Tools to take your dev skills to the moon 🌝](https://app.daily.dev/posts/D847KH3FW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [JavaScript Visualized](https://app.daily.dev/posts/Jf60GLU2W?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [[Nestia] Boost up NestJS server much faster and easier &lpar;maximum 20,000x faster + tRPC similar&rpar;](https://app.daily.dev/posts/IUydI5cn6?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [DevGPT - The Essential AI assistant for Developers](https://app.daily.dev/posts/G7YoaeDDW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [console.log alternatives you didn&#39;t know](https://app.daily.dev/posts/mxck_ZRxe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Why using just console.log in 2023 is a big no-no 🚀](https://app.daily.dev/posts/kRn88O4Cv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
