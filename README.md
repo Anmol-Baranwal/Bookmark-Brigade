@@ -4,6 +4,10 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Top 10 Clean Code Rules](https://app.daily.dev/posts/nBxbQtQ1o?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [7 Open Source Projects You Should Know - JavaScript Edition ✔️](https://app.daily.dev/posts/BoeHQETjq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [37 Tips from a Senior Frontend Developer](https://app.daily.dev/posts/79UhCV1bd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [15 amazing things you can do with simple JavaScript 🤯](https://app.daily.dev/posts/JOzliC1er?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [🌝 15 JavaScript frameworks for your next project ⚔](https://app.daily.dev/posts/wd5mfJYVC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [30+ AI projects you can build today](https://app.daily.dev/posts/L5RVi7vTH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [🚀 21 Tools to take your dev skills to the moon 🌝](https://app.daily.dev/posts/D847KH3FW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -20,8 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [TailwindCSS vs. UnoCSS](https://app.daily.dev/posts/A0VG4LfAl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Technical Writing 101: How to get Jobs, Gigs &amp; Opportunities](https://app.daily.dev/posts/f0fIonyeB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Dark Mode in 3 Lines of CSS and Other Adventures](https://app.daily.dev/posts/NHTOUHCVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [8 best opensource projects you should try out](https://app.daily.dev/posts/jwsNbjUL7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [[Nestia] Boost up NestJS server much faster and easier &lpar;maximum 20,000x faster + tRPC similar&rpar;](https://app.daily.dev/posts/IUydI5cn6?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [DevGPT - The Essential AI assistant for Developers](https://app.daily.dev/posts/G7YoaeDDW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [console.log alternatives you didn&#39;t know](https://app.daily.dev/posts/mxck_ZRxe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
