@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Uncovering Hidden Gems in JavaScript](https://app.daily.dev/posts/pMm3b2vhT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Top 10 Clean Code Rules](https://app.daily.dev/posts/nBxbQtQ1o?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [7 Open Source Projects You Should Know - JavaScript Edition ✔️](https://app.daily.dev/posts/BoeHQETjq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [37 Tips from a Senior Frontend Developer](https://app.daily.dev/posts/79UhCV1bd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [VSCode Profiles: Optimize Your Coding Environment](https://app.daily.dev/posts/s0TEwvXQQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [TailwindCSS vs. UnoCSS](https://app.daily.dev/posts/A0VG4LfAl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Technical Writing 101: How to get Jobs, Gigs &amp; Opportunities](https://app.daily.dev/posts/f0fIonyeB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Dark Mode in 3 Lines of CSS and Other Adventures](https://app.daily.dev/posts/NHTOUHCVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
