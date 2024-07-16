@@ -4,6 +4,12 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Best AI Coding Tools for Developers in 2024](https://app.daily.dev/posts/25uiXTRUU?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [AI Tools for Developer Productivity](https://app.daily.dev/posts/ND4v4LGTV?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [25 funded projects you can contribute in open source](https://app.daily.dev/posts/VbeX32Hek?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [A complete guide to open source - 100x simpler](https://app.daily.dev/posts/yK5hdm7OA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Say no to console.log!](https://app.daily.dev/posts/OkwfR7j3M?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [17 Best Developer Productivity Tools to Try](https://app.daily.dev/posts/B423p8XG4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Uncovering Hidden Gems in JavaScript](https://app.daily.dev/posts/pMm3b2vhT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Top 10 Clean Code Rules](https://app.daily.dev/posts/nBxbQtQ1o?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [7 Open Source Projects You Should Know - JavaScript Edition ✔️](https://app.daily.dev/posts/BoeHQETjq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -18,10 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [17 Libraries You Should Know if You Build with React](https://app.daily.dev/posts/FFOLu2yFB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://app.daily.dev/posts/7YhPSQHSb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Building a bidding system with NextJS 🚀](https://app.daily.dev/posts/akfrdFeAn?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How to Give Good Feedback for Effective Code Reviews](https://app.daily.dev/posts/19OLTOfcm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Database 101: How social media “likes” are stored in a database](https://app.daily.dev/posts/8o2UdyAZQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How to Contribute to Open Source without Knowing How to Code: A guide with project suggestions](https://app.daily.dev/posts/x744yKoqF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [VSCode Profiles: Optimize Your Coding Environment](https://app.daily.dev/posts/s0TEwvXQQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [TailwindCSS vs. UnoCSS](https://app.daily.dev/posts/A0VG4LfAl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Technical Writing 101: How to get Jobs, Gigs &amp; Opportunities](https://app.daily.dev/posts/f0fIonyeB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
