@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [&lpar;comic&rpar; The courage to speak up](https://app.daily.dev/posts/GniQVTc3K?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [21 Open Source LLM Projects to Become 10x AI Developer](https://app.daily.dev/posts/YR3NasJNX?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Best AI Coding Tools for Developers in 2024](https://app.daily.dev/posts/25uiXTRUU?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [AI Tools for Developer Productivity](https://app.daily.dev/posts/ND4v4LGTV?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [25 funded projects you can contribute in open source](https://app.daily.dev/posts/VbeX32Hek?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Produce, Don&#39;t Consume](https://app.daily.dev/posts/cKqHUGpnz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Build a Full-Stack app using these React libraries and cloud backend.](https://app.daily.dev/posts/nHHzwDUmx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [17 Libraries You Should Know if You Build with React](https://app.daily.dev/posts/FFOLu2yFB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://app.daily.dev/posts/7YhPSQHSb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Building a bidding system with NextJS 🚀](https://app.daily.dev/posts/akfrdFeAn?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
