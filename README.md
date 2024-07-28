@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [🎁 Shortcut to Find Open Source Projects 100x faster](https://app.daily.dev/posts/u20enHj7R?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Open Source alternatives to tools you Pay for](https://app.daily.dev/posts/gxwG9U2cF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [6 repos To Master Nextjs ⭐](https://app.daily.dev/posts/dQUmC4E0n?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I’ve worked in IT for over 10 years. Here are 5 things I wish I knew when I started](https://app.daily.dev/posts/oJdMug7vN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [How To Make Your Boring Terminal So Much Better](https://app.daily.dev/posts/6IjuzuplN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Reviewing Zed: An IDE of the Future](https://app.daily.dev/posts/hyzA7PbBo?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [7 Web Dev Tools You Didn’t Know You Needed](https://app.daily.dev/posts/mGNIlxrQ9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [EldoraUI](https://app.daily.dev/posts/pP0o8xYzh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
