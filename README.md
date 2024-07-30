@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/0QSoFLCO3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [50 Best Websites for Web Design Inspiration and Ideas](https://app.daily.dev/posts/6lVWsGxpm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [🎁 Shortcut to Find Open Source Projects 100x faster](https://app.daily.dev/posts/u20enHj7R?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Open Source alternatives to tools you Pay for](https://app.daily.dev/posts/gxwG9U2cF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [6 repos To Master Nextjs ⭐](https://app.daily.dev/posts/dQUmC4E0n?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [LLM Portfolio Projects Ideas to Wow Employers](https://app.daily.dev/posts/15j3VZQxc?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to Structure Your Backend Code in Node.js &lpar;Express.js&rpar;](https://app.daily.dev/posts/B1YyVSe3C?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How To Make Your Boring Terminal So Much Better](https://app.daily.dev/posts/6IjuzuplN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Reviewing Zed: An IDE of the Future](https://app.daily.dev/posts/hyzA7PbBo?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [7 Web Dev Tools You Didn’t Know You Needed](https://app.daily.dev/posts/mGNIlxrQ9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
