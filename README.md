@@ -4,6 +4,10 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://app.daily.dev/posts/csAlHL5Kh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/jvchrLbSb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [10 Cutting-Edge Web Dev Resources You Should Be Using Now](https://app.daily.dev/posts/SvqRgMeP5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Practical Guide to Creating a Design System](https://app.daily.dev/posts/PbNXASDoH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [17 Most Powerful AI Tools for Developers](https://app.daily.dev/posts/uMcahRkca?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/0QSoFLCO3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [50 Best Websites for Web Design Inspiration and Ideas](https://app.daily.dev/posts/6lVWsGxpm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -20,8 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Why Japanese Websites Look So Different](https://app.daily.dev/posts/liCW6jvKb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Fighting AI with AI 🥊](https://app.daily.dev/posts/VjFCyztDd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I&#39;m tired of it](https://app.daily.dev/posts/0iIH0PVPe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/xtAT0X8Ln?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [13 Hidden Open-source Libraries to Become an AI Wizard 🧙‍♂️🪄](https://app.daily.dev/posts/oBrFbv2p2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [LLM Portfolio Projects Ideas to Wow Employers](https://app.daily.dev/posts/15j3VZQxc?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How to Structure Your Backend Code in Node.js &lpar;Express.js&rpar;](https://app.daily.dev/posts/B1YyVSe3C?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
