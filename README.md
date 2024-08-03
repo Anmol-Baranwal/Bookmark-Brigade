@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [How Airbnb Became a Leader in UX Design](https://app.daily.dev/posts/drPmcTLmB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://app.daily.dev/posts/csAlHL5Kh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/jvchrLbSb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [10 Cutting-Edge Web Dev Resources You Should Be Using Now](https://app.daily.dev/posts/SvqRgMeP5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [00 - Email software you can own](https://app.daily.dev/posts/nNtEdBh0Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Why Japanese Websites Look So Different](https://app.daily.dev/posts/liCW6jvKb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Fighting AI with AI 🥊](https://app.daily.dev/posts/VjFCyztDd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [I&#39;m tired of it](https://app.daily.dev/posts/0iIH0PVPe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
