@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Mastering Next.js: The Ultimate Guide to Structuring Large-Scale Projects in 2024](https://app.daily.dev/posts/6JXOX2uPG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How Airbnb Became a Leader in UX Design](https://app.daily.dev/posts/drPmcTLmB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://app.daily.dev/posts/csAlHL5Kh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/jvchrLbSb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [15+ Artificial Intelligence AI Tools For Developers &lpar;2024&rpar;](https://app.daily.dev/posts/YJI4bn5by?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [00 - Email software you can own](https://app.daily.dev/posts/nNtEdBh0Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Why Japanese Websites Look So Different](https://app.daily.dev/posts/liCW6jvKb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Fighting AI with AI 🥊](https://app.daily.dev/posts/VjFCyztDd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
