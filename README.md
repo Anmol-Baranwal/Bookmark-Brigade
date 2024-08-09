@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Make your App 10x Secure with Arcjet Protection Layer](https://app.daily.dev/posts/j3XvwOdRg?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Next.js Full-Stack Web App &lpar;2024&rpar;](https://app.daily.dev/posts/49kjp9ZaG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [🖥️ Windows 11 Clone with React.js](https://app.daily.dev/posts/W5cH8gMJE?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [BoringUi - A UI generator for your data](https://app.daily.dev/posts/3c0XRs1YL?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [🎁 Shortcut to Find Open Source Projects 100x faster](https://app.daily.dev/posts/u20enHj7R?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Open Source alternatives to tools you Pay for](https://app.daily.dev/posts/gxwG9U2cF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [6 repos To Master Nextjs ⭐](https://app.daily.dev/posts/dQUmC4E0n?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [I’ve worked in IT for over 10 years. Here are 5 things I wish I knew when I started](https://app.daily.dev/posts/oJdMug7vN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
