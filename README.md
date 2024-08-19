@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Snaplet is now open source](https://app.daily.dev/posts/kQiuS9Li5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [I Built an Event Scheduler in NodeJs using Google Calendar API 🚀](https://app.daily.dev/posts/IsKHc6M3d?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Glass: an AI copilot for React and Next.js developers.](https://app.daily.dev/posts/NzaTNGH7O?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Node.js Security: Dynamic Rate Limiting with Arcjet and LaunchDarkly](https://app.daily.dev/posts/anhb7CVJl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [JWT vs PASETO: New Era of Token-Based Authentication](https://app.daily.dev/posts/tO2oBjXXo?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [5 wild new AI tools you can try right now](https://app.daily.dev/posts/ervIGGz8x?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [How Airbnb Became a Leader in UX Design](https://app.daily.dev/posts/drPmcTLmB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡](https://app.daily.dev/posts/csAlHL5Kh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/jvchrLbSb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [10 Cutting-Edge Web Dev Resources You Should Be Using Now](https://app.daily.dev/posts/SvqRgMeP5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Practical Guide to Creating a Design System](https://app.daily.dev/posts/PbNXASDoH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [17 Most Powerful AI Tools for Developers](https://app.daily.dev/posts/uMcahRkca?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
