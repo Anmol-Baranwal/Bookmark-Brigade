@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻](https://app.daily.dev/posts/F10QYzkm3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [How to remove a leaked .env file from GitHub permanently...](https://app.daily.dev/posts/ld12JZXGe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [10 Things You Can Learn from Netflix’s Architecture](https://app.daily.dev/posts/RmyUH5gB0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/IK0wDJ8sz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡](https://app.daily.dev/posts/PlThfdBgr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/DQZSANTRB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [🖥️ Windows 11 Clone with React.js](https://app.daily.dev/posts/W5cH8gMJE?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [BoringUi - A UI generator for your data](https://app.daily.dev/posts/3c0XRs1YL?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Understanding APIs: 10 API Concepts and Examples](https://app.daily.dev/posts/ZekPzoWwk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [19 Developer Tools that keep me productive](https://app.daily.dev/posts/qVXjIBwi4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Learn how to implement a token system in Next.js using technologies like Stripe, Drizzle, and Clerk.](https://app.daily.dev/posts/Xu3l6Ggq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [17 Iconic Projects to Build Up Your Portfolio 💼 🚀🦾](https://app.daily.dev/posts/wGtlyn5fG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
