@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [The Productivity apps I use in 2024](https://app.daily.dev/posts/cgkG6vYBI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [This VS Code AI Coding Assistant Is A Game Changer!](https://app.daily.dev/posts/U9EBhakq5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [18 GitHub Repositories to Boost Your Career as a Developer 🚀🧑‍💻](https://app.daily.dev/posts/F10QYzkm3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to remove a leaked .env file from GitHub permanently...](https://app.daily.dev/posts/ld12JZXGe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [10 Things You Can Learn from Netflix’s Architecture](https://app.daily.dev/posts/RmyUH5gB0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Make your App 10x Secure with Arcjet Protection Layer](https://app.daily.dev/posts/j3XvwOdRg?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Next.js Full-Stack Web App &lpar;2024&rpar;](https://app.daily.dev/posts/49kjp9ZaG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [🖥️ Windows 11 Clone with React.js](https://app.daily.dev/posts/W5cH8gMJE?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [BoringUi - A UI generator for your data](https://app.daily.dev/posts/3c0XRs1YL?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Understanding APIs: 10 API Concepts and Examples](https://app.daily.dev/posts/ZekPzoWwk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
