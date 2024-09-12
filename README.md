@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [30+ app ideas with complete source code](https://app.daily.dev/posts/qdWRHaJeR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Found a new alternative to Postman that just went open-source! Also supports GraphQL and gRPC.](https://app.daily.dev/posts/nNdrSjOns?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [21 Developer Tools to Improve Your Daily Life as Developer ⚡🎁](https://app.daily.dev/posts/M1n50380S?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Productivity apps I use in 2024](https://app.daily.dev/posts/cgkG6vYBI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [This VS Code AI Coding Assistant Is A Game Changer!](https://app.daily.dev/posts/U9EBhakq5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [5 wild new AI tools you can try right now](https://app.daily.dev/posts/ervIGGz8x?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/pVF3BLpTW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Project Sauron is Live! 👁️](https://app.daily.dev/posts/dapnunv8o?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Make your App 10x Secure with Arcjet Protection Layer](https://app.daily.dev/posts/j3XvwOdRg?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Next.js Full-Stack Web App &lpar;2024&rpar;](https://app.daily.dev/posts/49kjp9ZaG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
