@@ -4,6 +4,10 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [✧˚ Outstanding Portfolio for the inspiration - 08](https://app.daily.dev/posts/saVz88mdR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Warp: Your terminal, reimagined](https://app.daily.dev/posts/1FqHSTRUY?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Isocons](https://app.daily.dev/posts/hcihdoyW8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [13 Best Open-Source Google Chrome Extensions](https://app.daily.dev/posts/lEYCWmzZw?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Introducing Eldora UI](https://app.daily.dev/posts/7A7qPqLtX?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [7 best product tour JavaScript libraries for frontend apps](https://app.daily.dev/posts/ayCpCkYNk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Projects are live on roadmap.sh! 🥳](https://app.daily.dev/posts/yDmdoxrLi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -20,8 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [How to Grow Your Open Source Project: 11 Tips and Examples 🎯🎁⚡](https://app.daily.dev/posts/PlThfdBgr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/DQZSANTRB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Make naked websites look great with matcha.css!](https://app.daily.dev/posts/1AemgfJ0A?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Snaplet is now open source](https://app.daily.dev/posts/kQiuS9Li5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [I Built an Event Scheduler in NodeJs using Google Calendar API 🚀](https://app.daily.dev/posts/IsKHc6M3d?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Glass: an AI copilot for React and Next.js developers.](https://app.daily.dev/posts/NzaTNGH7O?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Node.js Security: Dynamic Rate Limiting with Arcjet and LaunchDarkly](https://app.daily.dev/posts/anhb7CVJl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
