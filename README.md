@@ -4,6 +4,10 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Components - React Email](https://app.daily.dev/posts/rGsUYjCR9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [sliday/resume-job-matcher: Resume Matcher: AI-powered resume screening tool](https://app.daily.dev/posts/gwMXVvwSq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/gSThzyEZK?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Satisfying sound with every keystroke](https://app.daily.dev/posts/DDEmKdL5Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [AI Tools Every UX/UI Designer Needs to Try!](https://app.daily.dev/posts/wVd6lCHGJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Front-end web development is changing, quickly](https://app.daily.dev/posts/r25QHB8SI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/eR2L5Fk5d?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -20,8 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [17 LLM Tools That Went Viral After Launch 🎯⚡🎁](https://app.daily.dev/posts/aBBTNRac7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [✧˚ Outstanding Portfolio for the inspiration - 08](https://app.daily.dev/posts/saVz88mdR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Warp: Your terminal, reimagined](https://app.daily.dev/posts/1FqHSTRUY?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Isocons](https://app.daily.dev/posts/hcihdoyW8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [13 Best Open-Source Google Chrome Extensions](https://app.daily.dev/posts/lEYCWmzZw?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Introducing Eldora UI](https://app.daily.dev/posts/7A7qPqLtX?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [7 best product tour JavaScript libraries for frontend apps](https://app.daily.dev/posts/ayCpCkYNk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
