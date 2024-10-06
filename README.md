@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [How to Mock GraphQL API Responses 10x Faster](https://app.daily.dev/posts/hitGRemrI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [💡What contributing to open-source is, and what it isn&#39;t.](https://app.daily.dev/posts/HlmIzTL8V?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Top 15 Next.js Blog Starter Templates in 2024](https://app.daily.dev/posts/56FsEeFHi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [chartdb/chartdb: Free and Open-source database diagrams editor, visualize and design your DB with a single query.](https://app.daily.dev/posts/KkMPsuqq3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [What are you working on right now?](https://app.daily.dev/posts/GHz1w8PDM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [How I Built an Open Source App That Went Viral](https://app.daily.dev/posts/gnxS1fFDa?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Components - React Email](https://app.daily.dev/posts/rGsUYjCR9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [sliday/resume-job-matcher: Resume Matcher: AI-powered resume screening tool](https://app.daily.dev/posts/gwMXVvwSq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/gSThzyEZK?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Satisfying sound with every keystroke](https://app.daily.dev/posts/DDEmKdL5Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
