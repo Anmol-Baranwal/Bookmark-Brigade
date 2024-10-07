@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://app.daily.dev/posts/8jU52nJWC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to Mock GraphQL API Responses 10x Faster](https://app.daily.dev/posts/hitGRemrI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [💡What contributing to open-source is, and what it isn&#39;t.](https://app.daily.dev/posts/HlmIzTL8V?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Top 15 Next.js Blog Starter Templates in 2024](https://app.daily.dev/posts/56FsEeFHi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Create beautiful images of your code](https://app.daily.dev/posts/As26erti4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How I Built an Open Source App That Went Viral](https://app.daily.dev/posts/gnxS1fFDa?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Components - React Email](https://app.daily.dev/posts/rGsUYjCR9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [sliday/resume-job-matcher: Resume Matcher: AI-powered resume screening tool](https://app.daily.dev/posts/gwMXVvwSq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
