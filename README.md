@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [I made Drag and drop builder for Python UI 🤯. Here&#39;s how I built it](https://app.daily.dev/posts/TUh3yBu83?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Hacktoberfest 2024 - The Antiguide](https://app.daily.dev/posts/ysBo3dp5E?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://app.daily.dev/posts/8jU52nJWC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How to Mock GraphQL API Responses 10x Faster](https://app.daily.dev/posts/hitGRemrI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [💡What contributing to open-source is, and what it isn&#39;t.](https://app.daily.dev/posts/HlmIzTL8V?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [21 React Projects Too Awesome to Ignore](https://app.daily.dev/posts/oA67W4rI1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Frontend Performance Love Story](https://app.daily.dev/posts/TxLr9ZRGq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Create beautiful images of your code](https://app.daily.dev/posts/As26erti4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How I Built an Open Source App That Went Viral](https://app.daily.dev/posts/gnxS1fFDa?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Components - React Email](https://app.daily.dev/posts/rGsUYjCR9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
