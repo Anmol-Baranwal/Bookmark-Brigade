@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [React Best Practices Ever Developer Should Know](https://app.daily.dev/posts/NaE6Ypy7x?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [7 Simple Tips to Improve Daily Focus](https://app.daily.dev/posts/qhzH72fZv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I made Drag and drop builder for Python UI 🤯. Here&#39;s how I built it](https://app.daily.dev/posts/TUh3yBu83?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Hacktoberfest 2024 - The Antiguide](https://app.daily.dev/posts/ysBo3dp5E?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://app.daily.dev/posts/8jU52nJWC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Measuring developers&#39; jobs-to-be-done](https://app.daily.dev/posts/Ivc4MbIT7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [9 Must-Try React UI Component Libraries for Stunning Web Apps in 2024](https://app.daily.dev/posts/8wL1eXI5s?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [21 React Projects Too Awesome to Ignore](https://app.daily.dev/posts/oA67W4rI1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Frontend Performance Love Story](https://app.daily.dev/posts/TxLr9ZRGq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Create beautiful images of your code](https://app.daily.dev/posts/As26erti4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
