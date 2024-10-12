@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Dockerfile Best Practices: How to Create Efficient Containers](https://app.daily.dev/posts/eZpztUaE0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [My Hacktoberfest 2024 Experience as a Maintainer 🙌](https://app.daily.dev/posts/EkSUpAjAG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Open-Source Prompt Engineering Platform](https://app.daily.dev/posts/96boBs6OZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [React Best Practices Ever Developer Should Know](https://app.daily.dev/posts/NaE6Ypy7x?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [No title](https://app.daily.dev/posts/hOGH42Mdw?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [realvjy/nxt-lnk: Custom bio links for creatives who love coding. A perfect custom alternative for linktree, bio and other shortner platform.](https://app.daily.dev/posts/Y5nIf9zqB?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Self-hosted Open Source Alternatives to Google Photos](https://app.daily.dev/posts/ZrH2K1PRU?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Measuring developers&#39; jobs-to-be-done](https://app.daily.dev/posts/Ivc4MbIT7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
