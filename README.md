@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [MinerU: An Open-Source PDF Data Extraction Tool](https://app.daily.dev/posts/kAGDRs6au?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Latitude - The open-source prompt engineering platform](https://app.daily.dev/posts/7C3h6ulY6?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [&quot;Frontend developers are officially cooked&quot;](https://app.daily.dev/posts/3xZ8I1PTS?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [A new browser I&#39;m actually hyped about](https://app.daily.dev/posts/rvAjUDlNU?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Comment Sorting](https://app.daily.dev/posts/GmJxoDsta?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [AI Studio](https://app.daily.dev/posts/7FQLs3R0U?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [React Best Practices Ever Developer Should Know](https://app.daily.dev/posts/NaE6Ypy7x?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [7 Simple Tips to Improve Daily Focus](https://app.daily.dev/posts/qhzH72fZv?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I made Drag and drop builder for Python UI 🤯. Here&#39;s how I built it](https://app.daily.dev/posts/TUh3yBu83?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Hacktoberfest 2024 - The Antiguide](https://app.daily.dev/posts/ysBo3dp5E?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [9 Open Source Projects to Contribute to - Hacktoberfest 2024](https://app.daily.dev/posts/8jU52nJWC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How to Mock GraphQL API Responses 10x Faster](https://app.daily.dev/posts/hitGRemrI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
