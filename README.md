@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion &amp; Miro.](https://app.daily.dev/posts/6q2fqB9PZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [✧˚ Outstanding Portfolio for the inspiration - 04](https://app.daily.dev/posts/qXFyipm8A?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [thedevdojo/pines: The Pines UI library](https://app.daily.dev/posts/jmVdc7aml?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Why Scrum is Stressing You Out](https://app.daily.dev/posts/PogyFrqb8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Good software development habits](https://app.daily.dev/posts/AFPsVBlJ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Building a High-Performance API with FastAPI, Pydantic, and Neon Postgres](https://app.daily.dev/posts/5LRxxAoY2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Is cursor the real deal or just a VS code wrapper?](https://app.daily.dev/posts/v4NO25mr7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/LLuD3Am31?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
