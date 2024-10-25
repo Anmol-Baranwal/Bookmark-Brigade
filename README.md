@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Customize Your VS Code Like a Pro 🔥](https://app.daily.dev/posts/Zx1XCpHAO?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Solidtime: Modern open-source time-tracking app](https://app.daily.dev/posts/d4lzafNng?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [This is the new blog for next.js only, in dev mode but lots to see](https://app.daily.dev/posts/5KatPre46?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [13 Projects You Don&#39;t Want to Pass Up to Win Cool Hacktoberfest Swag 🎁🎃](https://app.daily.dev/posts/DNfoYCNbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Explaining Kubernetes To My Uber Driver](https://app.daily.dev/posts/SSuQnI0JX?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion &amp; Miro.](https://app.daily.dev/posts/6q2fqB9PZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [6 Must-Know JavaScript ES13 Features for Modern Development 🚀](https://app.daily.dev/posts/3KFtK9Xzd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/zdKxsHD8V?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How To Make Money From Coding - A Complete Guide](https://app.daily.dev/posts/36Ts7Kjxr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Ground. your animation kit](https://app.daily.dev/posts/gRVWW9e2H?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Toddle is soon open-source.](https://app.daily.dev/posts/S3gUOX4v8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Good software development habits](https://app.daily.dev/posts/AFPsVBlJ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
