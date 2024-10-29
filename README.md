@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Welcome to OpenSouls Squad. Read the guidelines 👇](https://app.daily.dev/posts/ob0dAPI4F?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Introducing Wave V3 – The Ultimate Laravel SaaS Starter Kit!](https://app.daily.dev/posts/v4Uk9aY1t?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [My $1m plan](https://app.daily.dev/posts/mPrgQibA3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/6UB8JCpXz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/TkRasSPpa?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/nFgbQoGg6?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Why Scrum is Stressing You Out](https://app.daily.dev/posts/PogyFrqb8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/mcxHIqh4e?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Follow users](https://app.daily.dev/posts/zLJ33WEjO?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [A good blog on the list of Open Source alternatives for private software.](https://app.daily.dev/posts/2XkhCtfJd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/4H1qt0sCT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [5 Docker Best Practices I Wish I Knew When I Started](https://app.daily.dev/posts/324x4vW0H?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
