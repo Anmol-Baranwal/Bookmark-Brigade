@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/ifvWAGNtn?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [5 Best Privacy-Focused Google Analytics Alternatives](https://app.daily.dev/posts/kIptNPi6x?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Community guides by GitHub on how to launch and grow your open source project](https://app.daily.dev/posts/y9NP1EBNA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Online open daw](https://app.daily.dev/posts/GxBsRO7pM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [What You Work On &gt;&gt; How Hard You Work](https://app.daily.dev/posts/ZLxIc8asp?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/hTtADucgF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [This is the new blog for next.js only, in dev mode but lots to see](https://app.daily.dev/posts/5KatPre46?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [13 Projects You Don&#39;t Want to Pass Up to Win Cool Hacktoberfest Swag 🎁🎃](https://app.daily.dev/posts/DNfoYCNbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Explaining Kubernetes To My Uber Driver](https://app.daily.dev/posts/SSuQnI0JX?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion &amp; Miro.](https://app.daily.dev/posts/6q2fqB9PZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [✧˚ Outstanding Portfolio for the inspiration - 04](https://app.daily.dev/posts/qXFyipm8A?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [thedevdojo/pines: The Pines UI library](https://app.daily.dev/posts/jmVdc7aml?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
