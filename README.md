@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Animate SVGs Without Code! 🚀 Meet SVGator – Your New Animation Toolkit 🖌️✨](https://app.daily.dev/posts/Wl6NkZIj0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Building a Newsletter with Resend API](https://app.daily.dev/posts/bXgucK8ds?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/ifvWAGNtn?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [5 Best Privacy-Focused Google Analytics Alternatives](https://app.daily.dev/posts/kIptNPi6x?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Community guides by GitHub on how to launch and grow your open source project](https://app.daily.dev/posts/y9NP1EBNA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Customize Your VS Code Like a Pro 🔥](https://app.daily.dev/posts/Zx1XCpHAO?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Solidtime: Modern open-source time-tracking app](https://app.daily.dev/posts/d4lzafNng?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [This is the new blog for next.js only, in dev mode but lots to see](https://app.daily.dev/posts/5KatPre46?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [13 Projects You Don&#39;t Want to Pass Up to Win Cool Hacktoberfest Swag 🎁🎃](https://app.daily.dev/posts/DNfoYCNbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Explaining Kubernetes To My Uber Driver](https://app.daily.dev/posts/SSuQnI0JX?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
