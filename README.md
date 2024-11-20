@@ -4,6 +4,13 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Interactions by Nitish Khagwal](https://app.daily.dev/posts/Otvx6TtMo?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Laminar &lpar;YC S24&rpar; - Open-source all-in-one platform for engineering AI products](https://app.daily.dev/posts/rqkQhP43O?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/5B9ShiWe5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Discover 62 + Free Tailwind CSS Templates / Dashboard](https://app.daily.dev/posts/yHzfaNZIa?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Curated collection of beautiful hero sections](https://app.daily.dev/posts/lsyOQKNwx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Minimalist Github Portolio](https://app.daily.dev/posts/42UZdxT9a?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Free for Developers 🔥](https://app.daily.dev/posts/pKj1GFHhT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [17 Projects for Teams to Build AI Features 100x Faster](https://app.daily.dev/posts/ylqMRUCCj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/LkFDUE0gy?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Using AI Generated Code Will Make You a Bad Programmer](https://app.daily.dev/posts/1lQiApnIe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -17,11 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Draw.Audio](https://app.daily.dev/posts/eLRFlN4rd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/KUtYDJdUG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/6a8rVLcGi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Favorite New Tailwind Extension](https://app.daily.dev/posts/n9KTsKFA4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Tinybird vs. ClickHouse](https://app.daily.dev/posts/hUhzDwRZw?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [State of Frontend 2024](https://app.daily.dev/posts/5ioaQqkAQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/7qntUPHwb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How To Make Coding Addictive](https://app.daily.dev/posts/630FmWa0q?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [What Is Sidekick](https://app.daily.dev/posts/s8vHQZXLk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Check out my new portfolio website. Powered by Vue and Nuxt 💚](https://app.daily.dev/posts/HbFelBSW5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
