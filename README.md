@@ -4,6 +4,11 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Post approval for Squads](https://app.daily.dev/posts/nm2C5gvky?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/oX1vBIyMl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Quickly Find Resources for Awesome Next.js](https://app.daily.dev/posts/bXQwSII0J?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [How I Built My Portfolio](https://app.daily.dev/posts/nYIAtmSfG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/UQA8Ze4sb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I built a Flexbox Playground with Awesome Animations](https://app.daily.dev/posts/rq8I7OJvm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [First Web AI framework with no boilerplate code &lpar;free and open source&rpar;](https://app.daily.dev/posts/QA9ub7nR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [12 Logging BEST Practices in 12 minutes](https://app.daily.dev/posts/X3bGw9VYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -19,9 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Discover 62 + Free Tailwind CSS Templates / Dashboard](https://app.daily.dev/posts/yHzfaNZIa?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Curated collection of beautiful hero sections](https://app.daily.dev/posts/lsyOQKNwx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Minimalist Github Portolio](https://app.daily.dev/posts/42UZdxT9a?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Free for Developers 🔥](https://app.daily.dev/posts/pKj1GFHhT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [17 Projects for Teams to Build AI Features 100x Faster](https://app.daily.dev/posts/ylqMRUCCj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/LkFDUE0gy?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Using AI Generated Code Will Make You a Bad Programmer](https://app.daily.dev/posts/1lQiApnIe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Monica Code](https://app.daily.dev/posts/Q64n5plWe?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
