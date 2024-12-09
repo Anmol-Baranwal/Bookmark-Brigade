@@ -4,6 +4,10 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [I just came across this interactive ui library and decided to share.](https://app.daily.dev/posts/z8sCgN3g9?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Next-level frosted glass with backdrop-filter • Josh W. Comeau](https://app.daily.dev/posts/eogX8ihMI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Open-Source Time Tracker for Devs](https://app.daily.dev/posts/Cl1bjOKI5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/oYTdC9u31?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Using tailwind and are you tired of creating skeleton loaders? Say no more! Use Tailwind Skeleton Generator!](https://app.daily.dev/posts/tgi9ykzyT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Trench - Open source analytics infrastructure](https://app.daily.dev/posts/L1sBENGNi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [How web applications are secured](https://app.daily.dev/posts/mWSD7Uq7p?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -20,8 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [No title](https://app.daily.dev/posts/UQA8Ze4sb?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I built a Flexbox Playground with Awesome Animations](https://app.daily.dev/posts/rq8I7OJvm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [First Web AI framework with no boilerplate code &lpar;free and open source&rpar;](https://app.daily.dev/posts/QA9ub7nR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [12 Logging BEST Practices in 12 minutes](https://app.daily.dev/posts/X3bGw9VYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How I share my code across multiple JS projects without having to use npm](https://app.daily.dev/posts/6lqV8zmDL?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/TDAuVp32G?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/0IQZtjpwj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
