@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/G7dHaZNEp?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/1l3Z5WIQ3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [100+ Frontend Projects to level up your Skills](https://app.daily.dev/posts/NGK490kaR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Building In-App Notifications in Next.js](https://app.daily.dev/posts/aybR6mzsU?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [No title](https://app.daily.dev/posts/qX8KDJAkV?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Post approval for Squads](https://app.daily.dev/posts/nm2C5gvky?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/oX1vBIyMl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Quickly Find Resources for Awesome Next.js](https://app.daily.dev/posts/bXQwSII0J?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
