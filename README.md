@@ -4,6 +4,19 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/3Js3sNNI8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Hey folks! 
+
+You know those moments during standup when someone asks &quot;Can you share that Jira filter?&quot; and you&#39;re frantically trying to remember if it was `status != &quot;Done&quot;` or `status NOT IN &lpar;&quot;Done&quot;&rpar;`? Yeah, been there too many times.
+
+So I built a visual JQL builder that handles the syntax while we focus on actual work. Open-source, browser-based, no fluff. 
+
+Check it out if you&#39;re interested
+
+Source is on GitHub if you want to extend it for your team&#39;s needs.
+
+#DevTools #OpenSource #Jira #React](https://app.daily.dev/posts/xzj3dc5Eu?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/9f2aJsRO2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/G7dHaZNEp?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/1l3Z5WIQ3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [100+ Frontend Projects to level up your Skills](https://app.daily.dev/posts/NGK490kaR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -21,7 +34,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Dive into our comprehensive guide on the 7 types of loading in frontend development. Learn how they work, when to use them, and how to implement them with React.js examples!](https://app.daily.dev/posts/9j9ampqHW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/LCR9fRosg?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/GvNbaM9mG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/qX8KDJAkV?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Post approval for Squads](https://app.daily.dev/posts/nm2C5gvky?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/oX1vBIyMl?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
