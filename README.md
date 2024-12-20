@@ -4,6 +4,12 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Build a 3D Avatar Builder with Threejs and React - Full Course](https://app.daily.dev/posts/XsL9emjis?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [The Unwritten Rules to Becoming a Senior Developer: 4 Steps to Level Up](https://app.daily.dev/posts/lLDYGZgQH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Create Scroll Animations with just CSS](https://app.daily.dev/posts/A8RwYXnzi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [I Tried Every Hot Programming Language](https://app.daily.dev/posts/QyTSkpHAZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Which IDEs do software engineers love, and why?](https://app.daily.dev/posts/wcwnknQ5c?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [GitHub Copilot has a free plan now](https://app.daily.dev/posts/qGFHtIW2j?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/3Js3sNNI8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Hey folks! 
 
@@ -28,10 +34,4 @@ Source is on GitHub if you want to extend it for your team&#39;s needs.
 - [No title](https://app.daily.dev/posts/oYTdC9u31?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Using tailwind and are you tired of creating skeleton loaders? Say no more! Use Tailwind Skeleton Generator!](https://app.daily.dev/posts/tgi9ykzyT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Trench - Open source analytics infrastructure](https://app.daily.dev/posts/L1sBENGNi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [How web applications are secured](https://app.daily.dev/posts/mWSD7Uq7p?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Building a SaaS that makes money in under 24 hours](https://app.daily.dev/posts/pXbsRbWPM?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Next.js Top 7 Security Best Practices &lpar;Checklist&rpar;](https://app.daily.dev/posts/QHQioTEmI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Dive into our comprehensive guide on the 7 types of loading in frontend development. Learn how they work, when to use them, and how to implement them with React.js examples!](https://app.daily.dev/posts/9j9ampqHW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/LCR9fRosg?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/GvNbaM9mG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
