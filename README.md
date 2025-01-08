@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [A very clear and concise explanation of the &quot;use client&quot; directive in Next.js, this video makes it easy to understand how server and client components work together. 
+
+Just a 15 min video. Perfect for grasping the concept in no time!](https://app.daily.dev/posts/KSrEraWA7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Top Tools of 2024 &lpar;Part 1&rpar;](https://app.daily.dev/posts/mbmrqd4Nm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/LIPPadIeG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Ghostty: New Open Source Terminal That’s Spookily Good](https://app.daily.dev/posts/EkIwChEX5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +26,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [No title](https://app.daily.dev/posts/GcOExFsnG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/pY3U4oeEZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [200+ Tailwind CSS Resources: Tools, Tutorials, and More](https://app.daily.dev/posts/yOQCyRmJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [350+ Places to List Your Startup / SaaS](https://app.daily.dev/posts/lXOm2CeT0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
