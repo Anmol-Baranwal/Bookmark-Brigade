@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Introducing shapexui](https://app.daily.dev/posts/ipWMyMijs?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [🚀 Frontend Designers &amp; Developers, Meet Your New Best Friend! 🎨💻](https://app.daily.dev/posts/xow8hEbQ4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/unJxqr48N?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [A very clear and concise explanation of the &quot;use client&quot; directive in Next.js, this video makes it easy to understand how server and client components work together. 
 
 Just a 15 min video. Perfect for grasping the concept in no time!](https://app.daily.dev/posts/KSrEraWA7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,7 +26,4 @@ Just a 15 min video. Perfect for grasping the concept in no time!](https://app.d
 - [Pinata OG! | Generate beautiful OpenGraph Images with Pinata File API](https://app.daily.dev/posts/ydoGnThMX?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [A dependency-free JavaScript ES6 slider and carousel](https://app.daily.dev/posts/QQ8zFZEzf?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [FlyonUI Version 1.2.0 is out now..!!](https://app.daily.dev/posts/afDSz5hlS?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/GcOExFsnG?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/pY3U4oeEZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [200+ Tailwind CSS Resources: Tools, Tutorials, and More](https://app.daily.dev/posts/yOQCyRmJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
