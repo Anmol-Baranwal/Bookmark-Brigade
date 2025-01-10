@@ -4,6 +4,10 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/AkgJXk5sf?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [2024 JavaScript Rising Stars](https://app.daily.dev/posts/SQz2mFwaY?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Kickstart your AI Chat project with shadcn-chatbot-kit 🚀](https://app.daily.dev/posts/01QjIyLW0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [is-a.dev: A Free .dev Subdomain for Your Projects](https://app.daily.dev/posts/MFlMfa6SZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Introducing shapexui](https://app.daily.dev/posts/ipWMyMijs?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [🚀 Frontend Designers &amp; Developers, Meet Your New Best Friend! 🎨💻](https://app.daily.dev/posts/xow8hEbQ4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/unJxqr48N?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,8 +26,4 @@ Just a 15 min video. Perfect for grasping the concept in no time!](https://app.d
 - [A Creative Site Worth Exploring](https://app.daily.dev/posts/5sgxhncGF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [built a simple but powerful portfolio template with next and once-ui.com](https://app.daily.dev/posts/8NQP1mNrz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Meet Steel.dev: An Open Source Browser API for AI Agents and Apps](https://app.daily.dev/posts/Y8beYAy5V?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/zqYYklgdd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Pinata OG! | Generate beautiful OpenGraph Images with Pinata File API](https://app.daily.dev/posts/ydoGnThMX?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [A dependency-free JavaScript ES6 slider and carousel](https://app.daily.dev/posts/QQ8zFZEzf?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [FlyonUI Version 1.2.0 is out now..!!](https://app.daily.dev/posts/afDSz5hlS?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
