@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/GQ5Cl4sub?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/u1P9ok7Tc?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/AkgJXk5sf?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [2024 JavaScript Rising Stars](https://app.daily.dev/posts/SQz2mFwaY?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Kickstart your AI Chat project with shadcn-chatbot-kit 🚀](https://app.daily.dev/posts/01QjIyLW0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -24,6 +26,4 @@ Just a 15 min video. Perfect for grasping the concept in no time!](https://app.d
 - [OpenAlternative is a curated collection of the best open source alternatives to everyday SaaS products. The goal of the site is to be your first stop when researching for a new open source service to help you grow your business. It will help you find alternatives and reviews of the products you already use.](https://app.daily.dev/posts/Owxra1A9e?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [200+ Tailwind CSS Resources](https://app.daily.dev/posts/RlMOJex2S?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [A Creative Site Worth Exploring](https://app.daily.dev/posts/5sgxhncGF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [built a simple but powerful portfolio template with next and once-ui.com](https://app.daily.dev/posts/8NQP1mNrz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Meet Steel.dev: An Open Source Browser API for AI Agents and Apps](https://app.daily.dev/posts/Y8beYAy5V?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
