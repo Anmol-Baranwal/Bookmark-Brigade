@@ -4,6 +4,12 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Introducing Efficient Valkey-Based Caching for Next.js](https://app.daily.dev/posts/tKDYgH538?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [A Hybrid AI Search Engine built on the most powerful AI model - Claude 3.5 Sonnet and the most popular front-end framework - React + Tailwind + Shadcn UI.](https://app.daily.dev/posts/cFiwQfx8c?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/RawvMK97C?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [GitDiagram - Instantly visualize any codebase as an interactive diagram](https://app.daily.dev/posts/hQWfK73eJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/bcJS03nOa?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [for next.js developer](https://app.daily.dev/posts/f7lGgfd0G?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/SPSjiiH14?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I built an open-source LeetCode alternative](https://app.daily.dev/posts/G2Sgn1fz8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Perfectly Fitting Text to Container in React](https://app.daily.dev/posts/0fRulQqWd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -18,10 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [No title](https://app.daily.dev/posts/qxYVpMAep?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [40+ UI Components: React Library with Tailwind CSS](https://app.daily.dev/posts/NYzLjUofK?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Learn Git with me is a free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.](https://app.daily.dev/posts/7lTurjut4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/JhAeojq5g?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/8hXSj3xeL?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [FakeData - Get your fake data in seconds](https://app.daily.dev/posts/6sJ2h4OnI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/308q9duby?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Building an Animated Link Component with react-rough-notation in Next.js](https://app.daily.dev/posts/yJen08CaQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/3acDOJ7Cx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
