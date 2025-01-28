@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [🚀 Introducing Mirai — A Server Driven UI framework for Flutter](https://app.daily.dev/posts/5hGOIxs36?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [I built an open-source AI image editor that can remove backgrounds, edit backgrounds, add text behind subjects, overlay images, and clone objects](https://app.daily.dev/posts/KUSTZSiKA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Next.js blog template that uses Notion as a CMS](https://app.daily.dev/posts/nqrkEhERD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/tR04yFD4e?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [CoAgents: A Frontend Framework Reshaping Human-in-the-Loop AI Agents for Building Next-Generation Interactive Applications with Agent UI and LangGraph Integration](https://app.daily.dev/posts/FFoXokmrq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [No title](https://app.daily.dev/posts/1Lc2mWmE3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/kzjmVhdPs?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [10 Things Software Engineers Should Learn in 2025](https://app.daily.dev/posts/yQTOPu3pK?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Introducing Efficient Valkey-Based Caching for Next.js](https://app.daily.dev/posts/tKDYgH538?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [A Hybrid AI Search Engine built on the most powerful AI model - Claude 3.5 Sonnet and the most popular front-end framework - React + Tailwind + Shadcn UI.](https://app.daily.dev/posts/cFiwQfx8c?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
