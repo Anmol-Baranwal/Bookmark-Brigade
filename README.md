@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [I Finally built a Grid Playground with Awesome Animations](https://app.daily.dev/posts/E3ZoNRiYA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Modern Open Source Timetracker](https://app.daily.dev/posts/XVVbB8vAj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [5 Open-Source Mailchimp Alternatives You Should Know!](https://app.daily.dev/posts/lk7msHpCQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive Information](https://app.daily.dev/posts/5ptaBx5vr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [I built an open-source AI image editor that can remove backgrounds, edit backgrounds, add text behind subjects, overlay images, and clone objects](https://app.daily.dev/posts/KUSTZSiKA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Next.js blog template that uses Notion as a CMS](https://app.daily.dev/posts/nqrkEhERD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/tR04yFD4e?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [CoAgents: A Frontend Framework Reshaping Human-in-the-Loop AI Agents for Building Next-Generation Interactive Applications with Agent UI and LangGraph Integration](https://app.daily.dev/posts/FFoXokmrq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
