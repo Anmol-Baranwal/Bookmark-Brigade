@@ -4,6 +4,12 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [deepseek-ai/awesome-deepseek-integration](https://app.daily.dev/posts/YhKPB2nyq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Why My Websites Always Look Next Level](https://app.daily.dev/posts/omWMAsrTm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/NQHM6bOw0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/cEYEytBuR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [I Built an Open-Source Code Snippet Collection](https://app.daily.dev/posts/fF6qXyN3V?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/pG29pbm0e?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [assistant-ui/assistant-ui: Typescript/React library for AI Chat 💬 🚀](https://app.daily.dev/posts/2hQxcZoyJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I Built an Email Scheduler to Send Emails to Future!](https://app.daily.dev/posts/FDGw7kzV2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Test and preview fonts in real-time for all your design needs.](https://app.daily.dev/posts/NerGEbi4q?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -18,10 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [5 Open-Source Mailchimp Alternatives You Should Know!](https://app.daily.dev/posts/lk7msHpCQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive Information](https://app.daily.dev/posts/5ptaBx5vr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Lessons from 2 Years of PR Reviews: 9 Coding Mistakes](https://app.daily.dev/posts/Ldu17bJbL?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/9HYuw7SC4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [CodeSpark.world | AI Developer Platform](https://app.daily.dev/posts/O7f5Ae64H?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Lovable is your superhuman full stack engineer.](https://app.daily.dev/posts/tGDUnOcYn?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Once You&#39;re Laid Off, You&#39;ll Never Be the Same Again](https://app.daily.dev/posts/4anda22dA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/vE55AH3L6?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Trending Animated UI Component Libraries](https://app.daily.dev/posts/6H75BMn0g?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
