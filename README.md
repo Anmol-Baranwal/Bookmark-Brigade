@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Creating a Generative Artwork with Three.js](https://app.daily.dev/posts/Y2RnSOwyC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [puffinsoft/jscanify: The Javascript document scanning library.](https://app.daily.dev/posts/9xfu54rKW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [deepseek-ai/awesome-deepseek-integration](https://app.daily.dev/posts/YhKPB2nyq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Why My Websites Always Look Next Level](https://app.daily.dev/posts/omWMAsrTm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/NQHM6bOw0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [I Finally built a Grid Playground with Awesome Animations](https://app.daily.dev/posts/E3ZoNRiYA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Modern Open Source Timetracker](https://app.daily.dev/posts/XVVbB8vAj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [5 Open-Source Mailchimp Alternatives You Should Know!](https://app.daily.dev/posts/lk7msHpCQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive Information](https://app.daily.dev/posts/5ptaBx5vr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Lessons from 2 Years of PR Reviews: 9 Coding Mistakes](https://app.daily.dev/posts/Ldu17bJbL?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
