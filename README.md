@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/5PuzZaVSD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Free Resources For Web Devs ✨](https://app.daily.dev/posts/cDME33Pqx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Creating a Generative Artwork with Three.js](https://app.daily.dev/posts/Y2RnSOwyC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [puffinsoft/jscanify: The Javascript document scanning library.](https://app.daily.dev/posts/9xfu54rKW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [deepseek-ai/awesome-deepseek-integration](https://app.daily.dev/posts/YhKPB2nyq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Inferable.ai - Conversational AI agents to replace internal tools](https://app.daily.dev/posts/IShGE8Qsh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Ahey](https://app.daily.dev/posts/mUkxgMB3H?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I Finally built a Grid Playground with Awesome Animations](https://app.daily.dev/posts/E3ZoNRiYA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [The Modern Open Source Timetracker](https://app.daily.dev/posts/XVVbB8vAj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [5 Open-Source Mailchimp Alternatives You Should Know!](https://app.daily.dev/posts/lk7msHpCQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
