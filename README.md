@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [How to Build a Local RAG with DeepSeek-R1, LangChain, and Ollama &lpar;Step-by-Step Guide&rpar;](https://app.daily.dev/posts/aZ9n4zJeR?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/W4Q69UpJc?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Una UI](https://app.daily.dev/posts/DufvX0niI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/5PuzZaVSD?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Free Resources For Web Devs ✨](https://app.daily.dev/posts/cDME33Pqx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [🚀 ShipFree – The Open-Source SaaS Boilerplate](https://app.daily.dev/posts/sOsOEF8E2?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [A list of AI autonomous agents](https://app.daily.dev/posts/GObch1ABi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/nnU2w1rxH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Inferable.ai - Conversational AI agents to replace internal tools](https://app.daily.dev/posts/IShGE8Qsh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Ahey](https://app.daily.dev/posts/mUkxgMB3H?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
