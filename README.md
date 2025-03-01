@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Video and audio player themes for every web player and every web app framework.](https://app.daily.dev/posts/xdJIgOzQ5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Huggingface Agents course has finally arrived.](https://app.daily.dev/posts/3qTCjJvA8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Building a Design System as a Solo designer in a startup](https://app.daily.dev/posts/A7im9p3LS?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/ChdkPLUk3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Free Resources For Web Devs ✨](https://app.daily.dev/posts/cDME33Pqx?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Creating a Generative Artwork with Three.js](https://app.daily.dev/posts/Y2RnSOwyC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [puffinsoft/jscanify: The Javascript document scanning library.](https://app.daily.dev/posts/9xfu54rKW?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [deepseek-ai/awesome-deepseek-integration](https://app.daily.dev/posts/YhKPB2nyq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
