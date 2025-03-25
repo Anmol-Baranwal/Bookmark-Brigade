@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [The only web design inspiration sites you need:](https://app.daily.dev/posts/GZxQxYsX0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Great interview by an all-time devrel legend Amir Shevat](https://app.daily.dev/posts/mDHqpmbIq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [I created an MCP n8n custom node. 
 
 https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751TblZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -24,6 +26,4 @@ https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751Tb
 - [An open source project management platform](https://app.daily.dev/posts/zvVMp9Iyj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [If you love low-code platforms, Divhunt deserves a spot on your radar. Tried it yet?](https://app.daily.dev/posts/gjDs6x5O7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/DuHciy9RN?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/2z4rxyawh?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [A list of AI autonomous agents](https://app.daily.dev/posts/7MWi8CZ7W?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
