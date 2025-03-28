@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Startup-CTO-Handbook/StartupCTOHandbook.md at main · ZachGoldberg/Startup-CTO-Handbook](https://app.daily.dev/posts/xnqiGpyR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [After trying every AI app builder that treats devs like no-coders, we’re building our own](https://app.daily.dev/posts/SEws7e3Wg?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The only web design inspiration sites you need:](https://app.daily.dev/posts/GZxQxYsX0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Great interview by an all-time devrel legend Amir Shevat](https://app.daily.dev/posts/mDHqpmbIq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -25,5 +26,4 @@ https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751Tb
 - [No title](https://app.daily.dev/posts/ChdkPLUk3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/X8h0Z9oP4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [An open source project management platform](https://app.daily.dev/posts/zvVMp9Iyj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [If you love low-code platforms, Divhunt deserves a spot on your radar. Tried it yet?](https://app.daily.dev/posts/gjDs6x5O7?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
