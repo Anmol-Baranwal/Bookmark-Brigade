@@ -4,6 +4,9 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/xUgrNl8Uq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Dezi Gallery - The Design Inspiration Hub](https://app.daily.dev/posts/5LaW8CSTr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/sPOm16dIk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Startup-CTO-Handbook/StartupCTOHandbook.md at main · ZachGoldberg/Startup-CTO-Handbook](https://app.daily.dev/posts/xnqiGpyR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [After trying every AI app builder that treats devs like no-coders, we’re building our own](https://app.daily.dev/posts/SEws7e3Wg?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The only web design inspiration sites you need:](https://app.daily.dev/posts/GZxQxYsX0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,7 +26,4 @@ https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751Tb
 - [Video and audio player themes for every web player and every web app framework.](https://app.daily.dev/posts/xdJIgOzQ5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Huggingface Agents course has finally arrived.](https://app.daily.dev/posts/3qTCjJvA8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Building a Design System as a Solo designer in a startup](https://app.daily.dev/posts/A7im9p3LS?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/ChdkPLUk3?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/X8h0Z9oP4?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [An open source project management platform](https://app.daily.dev/posts/zvVMp9Iyj?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
