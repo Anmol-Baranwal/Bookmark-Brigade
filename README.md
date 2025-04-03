@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/BTb2wUjXa?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/xUgrNl8Uq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Dezi Gallery - The Design Inspiration Hub](https://app.daily.dev/posts/5LaW8CSTr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/sPOm16dIk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -25,5 +26,4 @@ https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751Tb
 - [Autocomplete component with Shadcn UI](https://app.daily.dev/posts/mvRNcjhAk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Video and audio player themes for every web player and every web app framework.](https://app.daily.dev/posts/xdJIgOzQ5?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Huggingface Agents course has finally arrived.](https://app.daily.dev/posts/3qTCjJvA8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Building a Design System as a Solo designer in a startup](https://app.daily.dev/posts/A7im9p3LS?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
