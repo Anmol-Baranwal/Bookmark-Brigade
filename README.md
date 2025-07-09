@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Pattern Craft: Beautiful backgrounds for your next big thing](https://app.daily.dev/posts/DZPXbojGo?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [Introducing Cosmic UI – futuristic components for your next project.](https://app.daily.dev/posts/V4fuVf4Qi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [SOLID Design Principles Every JavaScript Deveveloper Should Know](https://app.daily.dev/posts/MpFHScNdq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [React library for LLMs](https://app.daily.dev/posts/FUnoAEKcm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The only animated UI library you will ever need](https://app.daily.dev/posts/7WxxBNcC8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -24,6 +26,4 @@ https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751Tb
 - [A 10x Faster TypeScript](https://app.daily.dev/posts/uvKh8eu8R?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Please post feedback for improving the daily.dev algorithm in replies. Be as specific as possible and include examples 🙌](https://app.daily.dev/posts/0tIVp59GF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Writing Effect inspired by Apple](https://app.daily.dev/posts/lwpoAPBxm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Ultimate Repo : Ai Engineer Toolkit](https://app.daily.dev/posts/kaJcvLLRS?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [No title](https://app.daily.dev/posts/s3dU7ST8h?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
