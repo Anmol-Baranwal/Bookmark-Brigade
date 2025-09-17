@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Built a Terminal-Style Portfolio That Developers Will Love](https://app.daily.dev/posts/DNPjPiFQr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Sera UI - Modern React Component Library](https://app.daily.dev/posts/eL4Q1zNwC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Pattern Craft: Beautiful backgrounds for your next big thing](https://app.daily.dev/posts/DZPXbojGo?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Introducing Cosmic UI – futuristic components for your next project.](https://app.daily.dev/posts/V4fuVf4Qi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -25,5 +26,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751TblZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [CTO Handbook](https://app.daily.dev/posts/BykQ6djeT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [A 10x Faster TypeScript](https://app.daily.dev/posts/uvKh8eu8R?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Please post feedback for improving the daily.dev algorithm in replies. Be as specific as possible and include examples 🙌](https://app.daily.dev/posts/0tIVp59GF?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
