@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/xVPqfSsBd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Just Another F**ing Beautiful UI Library...](https://app.daily.dev/posts/dgAVDAlHH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Built a Terminal-Style Portfolio That Developers Will Love](https://app.daily.dev/posts/DNPjPiFQr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Sera UI - Modern React Component Library](https://app.daily.dev/posts/eL4Q1zNwC?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -25,5 +26,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [I created an MCP n8n custom node. 
 
 https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751TblZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [CTO Handbook](https://app.daily.dev/posts/BykQ6djeT?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
