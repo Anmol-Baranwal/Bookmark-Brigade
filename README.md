@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [The Gridcn: Tron-Inspired shadcn/ui Theme](https://app.daily.dev/posts/8Id22yy2y?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/RwKFrCeIr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/xVPqfSsBd?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Just Another F**ing Beautiful UI Library...](https://app.daily.dev/posts/dgAVDAlHH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Built a Terminal-Style Portfolio That Developers Will Love](https://app.daily.dev/posts/DNPjPiFQr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,8 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Startup-CTO-Handbook/StartupCTOHandbook.md at main · ZachGoldberg/Startup-CTO-Handbook](https://app.daily.dev/posts/xnqiGpyR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [After trying every AI app builder that treats devs like no-coders, we’re building our own](https://app.daily.dev/posts/SEws7e3Wg?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The only web design inspiration sites you need:](https://app.daily.dev/posts/GZxQxYsX0?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Great interview by an all-time devrel legend Amir Shevat](https://app.daily.dev/posts/mDHqpmbIq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [I created an MCP n8n custom node. 
-
-https://github.com/nerding-io/n8n-nodes-mcp](https://app.daily.dev/posts/7t751TblZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
