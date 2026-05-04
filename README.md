@@ -4,6 +4,7 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [Animated icons for React, without the setup pain](https://app.daily.dev/posts/qHMN56KCP?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Coding LLMs from the Ground Up: A Complete Course](https://app.daily.dev/posts/ZL0o8RUcA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Scroll-Driven Animations • Josh W. Comeau](https://app.daily.dev/posts/E7CUR5phA?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [The Gridcn: Tron-Inspired shadcn/ui Theme](https://app.daily.dev/posts/8Id22yy2y?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -23,5 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [No title](https://app.daily.dev/posts/xUgrNl8Uq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Dezi Gallery - The Design Inspiration Hub](https://app.daily.dev/posts/5LaW8CSTr?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/sPOm16dIk?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [Startup-CTO-Handbook/StartupCTOHandbook.md at main · ZachGoldberg/Startup-CTO-Handbook](https://app.daily.dev/posts/xnqiGpyR1?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
