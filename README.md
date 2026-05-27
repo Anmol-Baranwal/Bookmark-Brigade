@@ -4,6 +4,8 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 ## Article Archive
 
 <!-- DAILY-DEV-BOOKMARKS:START -->
+- [I Built a Pixel Art Village Where AI Characters Have Real Emotions](https://app.daily.dev/posts/oVhZrhtbI?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
+- [No title](https://app.daily.dev/posts/uuupB6ZiE?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [No title](https://app.daily.dev/posts/NTqvuFmvJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Six Claude Code Skills That Close the AI Agent Feedback Loop](https://app.daily.dev/posts/rsWUyRUVH?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [daily.dev Hackathon starts May 20th, are you ready?](https://app.daily.dev/posts/jo2o1QkEz?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
@@ -22,6 +24,4 @@ Fuel your curiosity in the world of technology with these awesome bookmarks cura
 - [Pattern Craft: Beautiful backgrounds for your next big thing](https://app.daily.dev/posts/DZPXbojGo?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [Introducing Cosmic UI – futuristic components for your next project.](https://app.daily.dev/posts/V4fuVf4Qi?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 - [SOLID Design Principles Every JavaScript Deveveloper Should Know](https://app.daily.dev/posts/MpFHScNdq?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [React library for LLMs](https://app.daily.dev/posts/FUnoAEKcm?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
-- [The only animated UI library you will ever need](https://app.daily.dev/posts/7WxxBNcC8?utm_source=rss&utm_medium=bookmarks&utm_campaign=iWZFqWGzJuZ3TMf4ZW9aZ)
 <!-- DAILY-DEV-BOOKMARKS:END -->
